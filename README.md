@@ -22,6 +22,8 @@ Below is a demo of the application in use.
 
 ![Demo](./images/remy-portfolio.gif)
 
+Google drive demo link: https://drive.google.com/file/d/1r1fyTqp1eTf0JiBTJaDAabdhPfsIs4yC/view
+
 ## Contributions
 NA
 
