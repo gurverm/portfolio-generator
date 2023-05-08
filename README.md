@@ -18,6 +18,10 @@ Nodejs is required to run this application.
 ## Usage
 This application required the installation of nodejs. It also uses the inquirer and fs modules from npm.
 
+Below is a demo of the application in use.
+
+![Demo](./images/remy-portfolio.gif)
+
 ## Contributions
 NA
 
